@@ -1,5 +1,7 @@
 <img src="https://github.com/DY811/DY811/blob/2023d36be9da8cb59101b460dce1aa7e50da1101/Koala%20image.png" width="100px">
 
+Welcome!!
+
 ## About Me
 - A business intelligence analyst at Amazon JP
 - Ph.D. (Bioinformatics)
@@ -11,7 +13,8 @@
 - :koala: Blog: [Hatena Blog](https://mountkoara.hatenablog.com)
 - 🌱 AtCoder: [AtCoder My Page](https://atcoder.jp/users/DY811)
 
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DY811&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=DY811&count_private=true&theme=tokyonight&layout=compact)
 <!---
 DY811/DY811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

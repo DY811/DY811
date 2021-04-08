@@ -1,4 +1,5 @@
 <img src="https://github.com/DY811/DY811/blob/2023d36be9da8cb59101b460dce1aa7e50da1101/Koala%20image.png" width="100px">
+
 ## About Me
 - A business intelligence analyst at Amazon JP
 - Ph.D. (Bioinformatics)

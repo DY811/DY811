@@ -3,6 +3,7 @@
 ## About Me
 - A business intelligence analyst at Amazon JP
 - Ph.D. (Bioinformatics)
+- R, Python, SQL
 - Interested in AtCoder (since 2021 Feb)
 
 ## My Links
